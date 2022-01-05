@@ -9,7 +9,7 @@ p{
     font-size: 20px;
 }
 .color{
-    color: orange;
+    color: rgb(255, 102, 0);
 }
 .container-part1{
     display: flex;
@@ -58,4 +58,13 @@ p{
 .photo-size{
     width: 40%;
     padding-left: 2%;
+}
+.half-width2{
+    
+width: 30%;
+padding-left: 100px;
+padding-top: 100px;
+}
+.half-width2 img{
+    width: 80%;
 }
