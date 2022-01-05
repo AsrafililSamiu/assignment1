@@ -1,0 +1,57 @@
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 50px;
+    
+}
+p{
+    font-size: 20px;
+}
+.color{
+    color: orange;
+}
+.container-part1{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.half-width img{
+    width: 60%;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    border-radius: 5%;
+    padding: 10px 10px;
+}
+.centarized{
+    text-align: center;
+}
+.part2{
+    
+    width: 30%;
+    box-shadow: 10px 10px 40px ;
+    margin-left: 5%;
+    padding: 2%;
+    border-radius: 5%;
+}
+.container-part2{
+    display: flex;
+    
+}
+#color1{
+    background-color: aquamarine;
+}
+#color2{
+   background-color: pink;
+}
+#color3{
+    background-color: burlywood;
+}
