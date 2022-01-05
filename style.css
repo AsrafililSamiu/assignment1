@@ -55,3 +55,7 @@ p{
 #color3{
     background-color: burlywood;
 }
+.photo-size{
+    width: 40%;
+    padding-left: 2%;
+}
