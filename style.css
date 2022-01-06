@@ -55,6 +55,12 @@ p{
 #color3{
     background-color: burlywood;
 }
+.color4{
+    color: white;
+}
+.color5{
+    color: tomato;
+}
 .photo-size{
     width: 40%;
     padding-left: 2%;
@@ -77,4 +83,14 @@ padding-top: 100px;
     .half-width3 img{
         padding-left: 20%;
         width: 60%;
+    }
+    .last-part{
+        background-color: black;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+    footer p{
+        text-align: center;
+        color: white;
+        
     }
